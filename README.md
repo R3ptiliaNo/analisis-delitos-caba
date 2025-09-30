@@ -160,7 +160,7 @@ Verificar en psql que la tabla denuncias existe y tiene filas
 
 streamlit run app.py → abrir navegador y usar el dashboard
 
-Contacto / contribuciones
+Contacto : alanaramayo88@gmail.com
 
-Para mejoras, agregar indicadores o capas geo, abrí un issue o hacé un pull request.
-Si necesitás ayuda con problemas de instalación en Windows (geopandas/GDAL/psycopg2), indicá tu SO y versión de Python para guiarte.
+
+
